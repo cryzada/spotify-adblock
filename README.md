@@ -7,5 +7,6 @@
 - Python
 
 # Command
-
-```python main.py```
+```
+python main.py
+```
