@@ -1,6 +1,6 @@
 # Spotify adblock for linux
 
-<img src="https://cdn.discordapp.com/attachments/581170733565214731/1016800353699778630/Captura_de_tela_2022-09-06_170117.png">
+<img src="https://cdn.discordapp.com/attachments/1040331064465440808/1147303247879606374/banner.png">
 
 # Requirements
 - Linux: Ubuntu/Debian
