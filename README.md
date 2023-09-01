@@ -5,3 +5,7 @@
 # Requirements
 - Linux: Version 22.04.3/22.04 LTS
 - Python
+
+# Command
+
+```python main.py```
