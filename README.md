@@ -4,7 +4,7 @@
 
 # Requirements
 - Linux: Ubuntu/Debian
-- Python
+- Python 3
 
 # Command
 ```
